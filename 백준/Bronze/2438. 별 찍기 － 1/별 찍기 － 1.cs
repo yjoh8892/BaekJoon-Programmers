@@ -12,7 +12,7 @@ class Q2438
             {
                 Console.Write("*");
             }
-            Console.Write("\n");
+            Console.WriteLine();
         }
     }
 }
