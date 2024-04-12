@@ -6,10 +6,13 @@ class Q10869
     {
         String[] S = Console.ReadLine().Split();
         
-        Console.WriteLine(int.Parse(S[0]) + int.Parse(S[1]));
-        Console.WriteLine(int.Parse(S[0]) - int.Parse(S[1]));
-        Console.WriteLine(int.Parse(S[0]) * int.Parse(S[1]));
-        Console.WriteLine(int.Parse(S[0]) / int.Parse(S[1]));
-        Console.WriteLine(int.Parse(S[0]) % int.Parse(S[1]));
+        int A = int.Parse(S[0]);
+        int B = int.Parse(S[1]);
+        
+        Console.WriteLine(A + B);
+        Console.WriteLine(A - B);
+        Console.WriteLine(A * B);
+        Console.WriteLine(A / B);
+        Console.WriteLine(A % B);
     }
 }
