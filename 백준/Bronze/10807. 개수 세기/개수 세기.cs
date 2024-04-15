@@ -7,10 +7,10 @@ class Q10807
         int N = int.Parse(Console.ReadLine());
         
         String[] S = Console.ReadLine().Split();
-        String Ans = Console.ReadLine();
+        String v = Console.ReadLine();
         
-        int result = Array.FindAll(S, x => x == Ans).Length;
+        int Ans = Array.FindAll(S, x => x == v).Length;
         
-        Console.WriteLine(result);
+        Console.WriteLine(Ans);
     }
 }
