@@ -199,7 +199,7 @@
 |1190|테스트2|테스트3|테스트4|
 |1191|테스트2|테스트3|테스트4|
 |1192|테스트2|테스트3|테스트4|
-|1193|분수찾기|Silver V|C#, [Java](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Silver/1193.%E2%80%85%EB%B6%84%EC%88%98%EC%B0%BE%EA%B8%B0/%EB%B6%84%EC%88%98%EC%B0%BE%EA%B8%B0.java)|
+|1193|분수찾기|Silver V|[C#](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Silver/1193.%E2%80%85%EB%B6%84%EC%88%98%EC%B0%BE%EA%B8%B0/%EB%B6%84%EC%88%98%EC%B0%BE%EA%B8%B0.cs), [Java](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Silver/1193.%E2%80%85%EB%B6%84%EC%88%98%EC%B0%BE%EA%B8%B0/%EB%B6%84%EC%88%98%EC%B0%BE%EA%B8%B0.java)|
 |1194|테스트2|테스트3|테스트4|
 |1195|테스트2|테스트3|테스트4|
 |1196|테스트2|테스트3|테스트4|
