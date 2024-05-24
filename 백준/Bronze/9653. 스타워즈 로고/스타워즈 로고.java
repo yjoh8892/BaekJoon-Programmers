@@ -1,9 +1,5 @@
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        
         System.out.println("    8888888888  888    88888");
         System.out.println("   88     88   88 88   88  88");
         System.out.println("    8888  88  88   88  88888");
