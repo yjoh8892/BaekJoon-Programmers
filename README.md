@@ -45,7 +45,7 @@
 |1034|테스트2|테스트3|테스트4|
 |1035|테스트2|테스트3|테스트4|
 |1036|테스트2|테스트3|테스트4|
-|1037|약수|Bronze I|[C#](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1037.%E2%80%85%EC%95%BD%EC%88%98/%EC%95%BD%EC%88%98.cs), [Java](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1037.%E2%80%85%EC%95%BD%EC%88%98/%EC%95%BD%EC%88%98.java)|
+|1037|[약수](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1037.%E2%80%85%EC%95%BD%EC%88%98/README.md)|Bronze I|[C#](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1037.%E2%80%85%EC%95%BD%EC%88%98/%EC%95%BD%EC%88%98.cs), [Java](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1037.%E2%80%85%EC%95%BD%EC%88%98/%EC%95%BD%EC%88%98.java)|
 |1038|테스트2|테스트3|테스트4|
 |1039|테스트2|테스트3|테스트4|
 |1040|테스트2|테스트3|테스트4|
