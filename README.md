@@ -18,7 +18,7 @@
 |1007|테스트2|테스트3|테스트4|
 |1008|[A/B](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1008.%E2%80%85A%EF%BC%8FB/README.md)|Bronze V|[C#](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1008.%E2%80%85A%EF%BC%8FB/A%EF%BC%8FB.cs), [Java](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1008.%E2%80%85A%EF%BC%8FB/A%EF%BC%8FB.java), [Python](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1008.%E2%80%85A%EF%BC%8FB/A%EF%BC%8FB.py)|
 |1009|테스트2|테스트3|테스트4|
-|1010|다리 놓기|Silver V|C#, [Java](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Silver/1010.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%86%93%EA%B8%B0/%EB%8B%A4%EB%A6%AC%E2%80%85%EB%86%93%EA%B8%B0.java)|
+|1010|[다리 놓기](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Silver/1010.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%86%93%EA%B8%B0/README.md)|Silver V|C#, [Java](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Silver/1010.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%86%93%EA%B8%B0/%EB%8B%A4%EB%A6%AC%E2%80%85%EB%86%93%EA%B8%B0.java)|
 |1011|테스트2|테스트3|테스트4|
 |1012|테스트2|테스트3|테스트4|
 |1013|테스트2|테스트3|테스트4|
