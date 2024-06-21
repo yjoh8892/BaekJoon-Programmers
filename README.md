@@ -444,7 +444,7 @@
 |1433|테스트2|테스트3|테스트4|
 |1434|테스트2|테스트3|테스트4|
 |1435|테스트2|테스트3|테스트4|
-|1436|영화감독 숌|Silver V|[C#](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Silver/1436.%E2%80%85%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C/%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C.cs), [Java](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Silver/1436.%E2%80%85%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C/%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C.java)|
+|1436|[영화감독 숌](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Silver/1436.%E2%80%85%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C/README.md)|Silver V|[C#](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Silver/1436.%E2%80%85%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C/%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C.cs), [Java](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Silver/1436.%E2%80%85%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C/%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C.java)|
 |1437|테스트2|테스트3|테스트4|
 |1438|테스트2|테스트3|테스트4|
 |1439|테스트2|테스트3|테스트4|
