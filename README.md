@@ -279,7 +279,7 @@
 |1268|테스트2|테스트3|테스트4|
 |1269|테스트2|테스트3|테스트4|
 |1270|테스트2|테스트3|테스트4|
-|1271|테스트2|테스트3|테스트4|
+|1271|[엄청난 부자2](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1271.%E2%80%85%EC%97%84%EC%B2%AD%EB%82%9C%E2%80%85%EB%B6%80%EC%9E%902/README.md)|Bronze V|[C#](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1271.%E2%80%85%EC%97%84%EC%B2%AD%EB%82%9C%E2%80%85%EB%B6%80%EC%9E%902/%EC%97%84%EC%B2%AD%EB%82%9C%E2%80%85%EB%B6%80%EC%9E%902.cs), [Java](https://github.com/yjoh8892/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1271.%E2%80%85%EC%97%84%EC%B2%AD%EB%82%9C%E2%80%85%EB%B6%80%EC%9E%902/%EC%97%84%EC%B2%AD%EB%82%9C%E2%80%85%EB%B6%80%EC%9E%902.java)|
 |1272|테스트2|테스트3|테스트4|
 |1273|테스트2|테스트3|테스트4|
 |1274|테스트2|테스트3|테스트4|
