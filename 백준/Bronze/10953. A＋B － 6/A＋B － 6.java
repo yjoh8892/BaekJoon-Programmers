@@ -9,10 +9,10 @@ public class Main {
         for (int i = 0; i < T; i++) {
             String str = sc.next();
             StringTokenizer st = new StringTokenizer(str, ",");
-            int a = Integer.parseInt(st.nextToken());
-            int b = Integer.parseInt(st.nextToken());
+            int A = Integer.parseInt(st.nextToken());
+            int B = Integer.parseInt(st.nextToken());
             
-            System.out.println(a + b);
+            System.out.println(A + B);
         }
     }
 }
